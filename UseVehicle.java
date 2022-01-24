@@ -6,8 +6,6 @@
 * @since   2022-01-01
 */
 
-import java.util.Scanner;
-
 /**
 * This is a program that blanks.
 */

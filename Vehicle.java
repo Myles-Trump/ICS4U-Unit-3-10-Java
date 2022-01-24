@@ -6,7 +6,7 @@
 * @since   2022-01-01
 */
 
-abstract public class Vehicle {
+abstract class Vehicle {
 
     // Constants
     /**
